@@ -34,3 +34,6 @@ npm install
 
 # Start the dev server
 npm run dev
+```
+## 🔗 Link
+https://deeday.netlify.app/
